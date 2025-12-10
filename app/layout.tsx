@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: '百人一首 App',
-  description: '百人一首 No.61-80',
+  description: '百人一首 No.81-100',
 }
 
 export default function RootLayout({
